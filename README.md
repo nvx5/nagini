@@ -2,7 +2,7 @@
 <img width="1640" height="300" alt="New Project(27)" src="https://github.com/user-attachments/assets/5994ef8f-2838-4027-83ee-4440a901e51f" />
 </div>
 
-### ⮻ Project
+### Project
 
 **A custom, ESP-powered snake vivarium built from 100% second-hand, repurposed IKEA cabinetry.** This personal project combines reclaimed materials, custom 3D-printed ventilation, precision environmental sensing and an integrated LCD control dashboard. Designed to look like a finished piece of furniture rather than a collection of exposed electronics.
 
@@ -10,7 +10,7 @@ The repository is intended both as documentation of the build and as a resource 
 
 > **Project status:** Build complete. Firmware and printable models uploaded. Component specifications, full documentation and build measurements will be added may be added in the future.
 
-### ♛ Highlights
+### Highlights
 
 - 100% second-hand IKEA cabinets repurposed into a vivarium, with custom wooden raised feet and four fully functional drawers.
 - Clean-fitting flush sliding glass frontage with an industry-standard enclosure lock.
@@ -21,20 +21,17 @@ The repository is intended both as documentation of the build and as a resource 
 - An original IKEA cabinet handle repurposed as a hidden control dial.
 - Internal cable management with a single outgoing mains plug.
 
-### ⌘ Gallery
+### Gallery
 
-
-<!-- Row 1: Full width -->
 <p align="center">
   <img width="2000" height="3000" alt="github image squ(4)" src="https://github.com/user-attachments/assets/b8047ac6-1866-4b1c-bf5d-f93a655de23a" />
   <div align="center"><sup>Full enclosure image edited using AI to remove background and generate studio look.</sup></div>
 </p>
 
-
-### 🞺 Contributing
+### Contributing
 
 This is a finished project. Contributions, issues, and feature requests are welcome.
 
-### ⛊ License
+### License
 
 This project is open-source. Feel free to do anything with it.
