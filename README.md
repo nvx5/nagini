@@ -8,7 +8,7 @@
 
 The repository is intended both as documentation of the build and as a resource for anyone interested in adapting the hardware or firmware for their own enclosure.
 
-> **Project status:** Build complete. Documentation in progress. Firmware, printable models, component specifications and build measurements will be added as they are prepared for release.
+> **Project status:** Build complete. Firmware and printable models uploaded. Component specifications, full documentation and build measurements will be added may be added in the future.
 
 ### ♛ Highlights
 
