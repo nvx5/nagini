@@ -26,17 +26,9 @@ The repository is intended both as documentation of the build and as a resource 
 
 <!-- Row 1: Full width -->
 <p align="center">
-  <img width="1640" height="600" alt="github image" src="https://github.com/user-attachments/assets/ac6c3f12-be3e-42a0-8377-ff9ffd2fb1ce" />
+  <img width="2000" height="3000" alt="github image squ(4)" src="https://github.com/user-attachments/assets/b8047ac6-1866-4b1c-bf5d-f93a655de23a" />
+  <div align="center"><sup>Full enclosure image edited using AI to remove background and generate studio look.</sup></div>
 </p>
-
-<!-- Row 2: Three images -->
-<p align="center">
-      <img width="33%" alt="github image squ" src="https://github.com/user-attachments/assets/a34e2476-dfb7-46b6-b59d-596d75846400" />
-      <img width="33%" alt="github image squ(1)" src="https://github.com/user-attachments/assets/d693b1a5-f76f-41ca-bb9e-c2e7e9d0631a" />
-      <img width="33%" alt="github image squ(2)" src="https://github.com/user-attachments/assets/6b4d1750-def0-4aa7-8ab0-66d6c7642a48" />
-</p>
-
- <div align="center"><sup>Image edited using AI to remove background.</sup></div>
 
 
 ### 🞺 Contributing
