@@ -28,10 +28,6 @@ The repository is intended both as documentation of the build and as a resource 
   <div align="center"><sup>Full enclosure image edited using AI to remove background and generate studio look.</sup></div>
 </p>
 
-### Contributing
+### Contributing & License
 
-This is a finished project. Contributions, issues, and feature requests are welcome.
-
-### License
-
-This project is open-source. Feel free to do anything with it.
+This is a finished open-source project. Feel free to do anything with it. Contributions, issues, and feature requests are welcome.
